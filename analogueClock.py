@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# File       : P5a.py
+# File       : analogueClock.py
 # Description: Analogue clock using Python closure.
 # Copyright 2022 Harvard University. All Rights Reserved.
 import numpy as np

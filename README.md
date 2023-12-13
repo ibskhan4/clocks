@@ -7,6 +7,7 @@ This project showcases the implementation of two analog clocks in Python using c
 Files:
 
 analogClock.py: Implements the static analog clock.
+
 dynamicClock.py: Implements the animated analog clock.
 ## Key Features:
 

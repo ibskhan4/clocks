@@ -6,7 +6,7 @@ This project showcases the implementation of two analog clocks in Python using c
 
 ## Files:
 
-analogClock.py: Implements the static analog clock.
+analogueClock.py: Implements the static analog clock.
 
 dynamicClock.py: Implements the animated analog clock.
 ## Key Features:
@@ -17,8 +17,8 @@ Real-time animation: The animated clock continuously updates the hand positions 
 
 ## How to Run:
 
-Save both analogClock.py and dynamicClock.py in the same directory.
-To run the static clock, open a terminal in the directory and execute python P5a.py. A static clock image will be generated as analogClock.png.
+Save both analogueClock.py and dynamicClock.py in the same directory.
+To run the static clock, open a terminal in the directory and execute python analogueClock.py. A static clock image will be generated as analogueClock.png.
 To run the animated clock, execute python dynamicClock.py in the terminal. The clock will run continuously, updating the hand positions every second.
 
 ## Further Exploration:

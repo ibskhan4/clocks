@@ -17,9 +17,9 @@ Real-time animation: The animated clock continuously updates the hand positions 
 
 ## How to Run:
 
-Save both P5a.py and P5b.py in the same directory.
-To run the static clock, open a terminal in the directory and execute python P5a.py. A static clock image will be generated as P5a.png.
-To run the animated clock, execute python P5b.py in the terminal. The clock will run continuously, updating the hand positions every second.
+Save both analogClock.py and dynamicClock.py in the same directory.
+To run the static clock, open a terminal in the directory and execute python P5a.py. A static clock image will be generated as analogClock.png.
+To run the animated clock, execute python dynamicClock.py in the terminal. The clock will run continuously, updating the hand positions every second.
 
 ## Further Exploration:
 

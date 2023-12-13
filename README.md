@@ -1,6 +1,8 @@
-# Title: Clock Project: Static and Animated Analog Clocks with Python Closures
+Clock Project: Static and Animated Analog Clocks with Python Closures
 
-## Description: This project showcases the implementation of two analog clocks in Python using closures: a static clock displaying the current time and an animated clock that updates in real-time. Both clocks utilize trigonometric calculations and matplotlib visualization to accurately represent the positions of the hour, minute, and second hands.
+## Description: 
+
+This project showcases the implementation of two analog clocks in Python using closures: a static clock displaying the current time and an animated clock that updates in real-time. Both clocks utilize trigonometric calculations and matplotlib visualization to accurately represent the positions of the hour, minute, and second hands.
 
 Files:
 

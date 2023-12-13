@@ -1,4 +1,4 @@
-# Clock Project: Static and Animated Analog Clocks with Python Closures
+# Clock Project: Static & Animated Analog Clocks (Python Closures)
 
 ## Description: 
 

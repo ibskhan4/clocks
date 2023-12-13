@@ -12,7 +12,9 @@ dynamicClock.py: Implements the animated analog clock.
 
 ## Packages Used
 numpy: This math powerhouse handles calculations like trigonometry for hand positions and arrays for plotting.
+
 matplotlib: The master of visuals, it brings the clock face, hands, and labels to life with customizable colors, sizes, and styles.
+
 datetime: Timekeeping extraordinaire, it grabs the current system time for both static and animated clocks, ensuring accurate hand positions.
 ## Key Features:
 

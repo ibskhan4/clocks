@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# File       : P5b.py
+# File       : dynamicClock.py
 # Description: Animated clock
 # Copyright 2022 Harvard University. All Rights Reserved.
 import numpy as np

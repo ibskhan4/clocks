@@ -16,9 +16,9 @@ dynamicClock.py: Implements the animated analog clock.
 * datetime: Retrieves the current system time for both static and animated clocks, ensuring accurate hand positions.
 ## Key Features:
 
-- Closures: Both files leverage closures to encapsulate the logic for calculating the hand positions based on the hand length and current angle. This promotes modularity and reusability.
-- Matplotlib: The project uses matplotlib to create the clock face, hands, and labels.
-- Real-time animation: The animated clock continuously updates the hand positions based on the system time, providing a dynamic representation of the current time.
+* Closures: Both files leverage closures to encapsulate the logic for calculating the hand positions based on the hand length and current angle. This promotes modularity and reusability.
+* Matplotlib: The project uses matplotlib to create the clock face, hands, and labels.
+* Real-time animation: The animated clock continuously updates the hand positions based on the system time, providing a dynamic representation of the current time.
 
 ## How to Run:
 

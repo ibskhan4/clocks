@@ -22,7 +22,7 @@ dynamicClock.py: Implements the animated analog clock.
 
 ## How to Run:
 
-Save both analogueClock.py and dynamicClock.py in the same directory.
-To run the static clock, open a terminal in the directory and execute python analogueClock.py. A static clock image will be generated as analogueClock.png.
-To run the animated clock, execute python dynamicClock.py in the terminal. The clock will run continuously, updating the hand positions every second.
+1. Save both analogueClock.py and dynamicClock.py in the same directory.
+2. To run the static clock, open a terminal in the directory and execute python analogueClock.py. A static clock image will be generated as analogueClock.png.
+3. To run the animated clock, execute python dynamicClock.py in the terminal. The clock will run continuously, updating the hand positions every second.
 

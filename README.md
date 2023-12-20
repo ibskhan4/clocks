@@ -10,7 +10,7 @@ analogueClock.py: Implements the static analog clock.
 
 dynamicClock.py: Implements the animated analog clock.
 
-## Packages Used
+## Packages Used:
 * numpy: Handles calculations like trigonometry for hand positions and arrays for plotting.
 * matplotlib: Visualizes the clock face, hands, and labels with customizable colors, sizes, and styles.
 * datetime: Retrieves the current system time for both static and animated clocks, ensuring accurate hand positions.
